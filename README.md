@@ -1,4 +1,24 @@
-### Hi there 👋
+# Hi there 👋 I'm raj-patra
+
+## About
+A Python Developer, an IoT admirer and an AI Enthusiast. Also, an Electronics and Telecommunication Grad.
+
+## 👩‍💻 Domain
+- **Languages**
+  - 4 stars - Pythom
+  - 2 stars - Node Js, C++, Java, R
+
+- **Area of Interest**  
+  - Machine Learning (Computer Vision, Natural Language Processing)
+  - Reinforcement Learning (AI Enabled games)
+  - REST APIs (Flask, Django, ExpressJs)
+  - GUI Designing
+
+## 🐙 **Github Stats**
+[![github stats](https://github-readme-stats.vercel.app/api?username=raj-patra&show_icons=true&theme=radical)](https://github.com/raj-patra)
+
+## 🌐 **Top Languages**
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-patra&show_icons=true&theme=radical&layout=compact)](https://github.com/raj-patra)
 
 <!--
 **raj-patra/raj-patra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
