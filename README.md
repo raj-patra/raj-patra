@@ -20,6 +20,9 @@ A Python Developer, an IoT admirer and an AI Enthusiast. Also, an Electronics an
 ## 🌐 **Top Languages**
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-patra&show_icons=true&theme=radical&layout=compact)](https://github.com/raj-patra)
 
+## 🗨️ Contact me on
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/a_ignorant_mortal)
+
 <!--
 **raj-patra/raj-patra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
