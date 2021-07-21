@@ -1,7 +1,7 @@
 # Hi there 👋 I'm raj-patra
 
 ## About
-A Python Developer, an IoT admirer and an AI Enthusiast. Also, an Electronics and Telecommunication Grad.
+Talk is cheap, Show me the code.
 
 ## 👩‍💻 Domain
 - **Languages**
