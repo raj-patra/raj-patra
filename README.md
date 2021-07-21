@@ -1,39 +1,53 @@
-# Hi there 👋 I'm raj-patra
+<h1 align="center">
+  Hi there 👋 I'm Raj
+</h1>
 
-## About
-Talk is cheap, Show me the code.
+
+<!-- Contribution Graph-->
+
+![](https://activity-graph.herokuapp.com/graph?username=raj-patra&theme=react-dark&hide_border=true&area=true)
+</br>
+
+## About - Talk is cheap, Show me the code.
+.
 
 ## 👩‍💻 Domain
-- **Languages**
-  - 4 stars - Pythom
-  - 2 stars - Node Js, C++, Java, R
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 
-- **Area of Interest**  
-  - Machine Learning (Computer Vision, Natural Language Processing)
-  - Reinforcement Learning (AI Enabled games)
-  - REST APIs (Flask, Django, ExpressJs)
-  - GUI Designing
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="react" width="75" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="djnago" width="75" height="55"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</p>
+<br>
 
 ## 🐙 **Github Stats**
-[![github stats](https://github-readme-stats.vercel.app/api?username=raj-patra&show_icons=true&theme=radical)](https://github.com/raj-patra)
+<p align='center'>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=raj-patra&show_icons=true&theme=gotham" alt="raj patra" />
+  &nbsp; &nbsp;
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=raj-patra&theme=gotham" alt="raj patra" />
+</p>
 
 ## 🌐 **Top Languages**
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-patra&show_icons=true&theme=radical&layout=compact)](https://github.com/raj-patra)
+<p align='center'>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-patra&show_icons=true&theme=gotham&layout=compact" alt="raj patra" />
+</p>
 
-## 🗨️ Contact me on
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/a_ignorant_mortal)
 
-<!--
-**raj-patra/raj-patra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🗨️ Socials
+<!-- [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/a_ignorant_mortal) -->
+<p align="center">
+  <a href="mailto:rajpatra.kishore@gmail.com"><img align="center" src="https://img.icons8.com/doodle/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/raj-patra" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/linkedin.png"  alt="LinkedIn"/></a>
+  <a href="https://raj-patra.github.io/" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/internet.png"  alt="Website"/></a>
+  <a href="https://github.com/raj-patra" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://instagram.com/raj__patra" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/instagram.png" alt="Instagram"/> </a>
+  <a href="https://twitter.com/ignorant_mortal" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://t.me/a_ignorant_mortal" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/telegram-app.png" alt="Telegram"/></a>
+  <a href="https://reddit.com/user/a-ignorant-mortal" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/reddit--v4.png" alt="Reddit"/></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
