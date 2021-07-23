@@ -18,13 +18,27 @@
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=raj-patra&theme=gotham" alt="raj patra" />
 </p>
 
-## 🌐 **Top Languages**
 <p align='center'>
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-patra&show_icons=true&theme=gotham&layout=compact" alt="raj patra" />
 </p>
 
 ## 👩‍💻 Domain
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Tech Stack: </h3>
+<table align="center" style="margin: 0px auto;">
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">💻- Python, C++, R, Java, MATLAB, C</td>
+    <td style="text-align: center; vertical-align: middle;">🌐 - Flask, Django, JavaScript, Node.js</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">🤖 - Tensorflow, Keras, SKLearn, Statsmodel</td>
+    <td style="text-align: center; vertical-align: middle;">🛢 - MSSQL, MySQL, Sqlite3</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">📈 - PowerBI, Matplotlib, Seaborn</td>
+    <td style="text-align: center; vertical-align: middle;">🛠 - Git, Markdown, Sphinx</td>
+  </tr>
+</table>
+
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tf" width="40" height="40"/>
