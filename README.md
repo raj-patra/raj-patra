@@ -9,7 +9,6 @@
 </br>
 
 ## About - Talk is cheap, Show me the code.
-.
 
 ## 🐙 **Github Stats**
 <p align='center'>
