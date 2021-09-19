@@ -8,8 +8,6 @@
 ![](https://activity-graph.herokuapp.com/graph?username=raj-patra&theme=react-dark&hide_border=true&area=true)
 </br>
 
-## About - Talk is cheap, Show me the code.
-
 ## 🐙 **Github Stats**
 <p align='center'>
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=raj-patra&show_icons=true&theme=gotham" alt="raj patra" />
