@@ -1,10 +1,32 @@
-<h1 align="center">
-  Hi There 👋 I'm Raj
-</h1>
+## Hi There 👋 I'm Raj
+<a href="mailto:rajpatra.kishore@gmail.com"><img align="center" src="https://img.icons8.com/doodle/50/000000/gmail.png" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/raj-patra" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/linkedin.png"  alt="LinkedIn"/></a>
+<a href="https://raj-patra.github.io/" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/internet.png"  alt="Website"/></a>
+<a href="https://github.com/raj-patra" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/github.png" alt="GitHub"/></a>
+<a href="https://t.me/a_ignorant_mortal" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/telegram-app.png" alt="Telegram"/></a>
+<a href="https://discordapp.com/users/503535235468754964" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/discord--v2.png" alt="Reddit"/></a>
+<a href="https://reddit.com/user/a-ignorant-mortal" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/reddit--v4.png" alt="Reddit"/></a>
+<a href="https://instagram.com/raj__patra" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/instagram.png" alt="Instagram"/> </a>
+<a href="https://twitter.com/ignorant_mortal" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/twitter.png" alt="Twitter"/></a>
 
 
+Hey, This is **Raj**. A tech enthusiast trying to build cool stuff in my quest to keep my pace with the ever emerging field of technology. Also, I am an Electronics and Telecommunication graduate from **[IIIT Bhubaneswar](https://www.iiit-bh.ac.in/)**.
+
+I am currently working as a software developer for Dell Technologies helping stakeholders drive intelligent insights from customer journeys, buying patterns and a lot more. 😊
+
+  <img align="right" alt="GIF"  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+</br>
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on Aritificial Intelligence based application development and DevOps.
+- 🌱 I’m currently learning Reinforcement Learning, Natural Language Processing and Cryptography.
+- 🤔 My interests are with Computer Vision, GUI Development, and state-less REST APIs.
+- 💼 Graduated from IIIT Bhubaneswar with a Bachelor's degree in Electronics and Telecommunication Engineering.
+- 📝 Check out my [Portfolio](https://raj-patra.github.io/).
+ 
 <!-- Contribution Graph-->
-
 ![](https://activity-graph.herokuapp.com/graph?username=raj-patra&theme=react-dark&hide_border=true&area=true)
 </br>
 
@@ -18,45 +40,3 @@
 <p align='center'>
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-patra&show_icons=true&theme=gotham&layout=compact" alt="raj patra" />
 </p>
-
-<!-- ## 👩‍💻 Domain
-<h3 align="center">Tech Stack: </h3>
-<table align="center" style="margin: 0px auto;">
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">💻- Python, C++, R, Java, MATLAB, C</td>
-    <td style="text-align: center; vertical-align: middle;">🌐 - Flask, Django, JavaScript, Node.js</td>
-  </tr>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">🤖 - Tensorflow, Keras, SKLearn, Statsmodel</td>
-    <td style="text-align: center; vertical-align: middle;">🛢 - MSSQL, MySQL, Sqlite3</td>
-  </tr>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">📈 - PowerBI, Matplotlib, Seaborn</td>
-    <td style="text-align: center; vertical-align: middle;">🛠 - Git, Markdown, Sphinx</td>
-  </tr>
-</table>
-
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tf" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="75" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="djnago" width="75" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</p>
-<br>
- -->
-## 🗨️ Socials
-<!-- <h3 align="center">Socials:</h3> -->
-<p align="center">
-  <a href="mailto:rajpatra.kishore@gmail.com"><img align="center" src="https://img.icons8.com/doodle/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/raj-patra" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/linkedin.png"  alt="LinkedIn"/></a>
-  <a href="https://raj-patra.github.io/" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/internet.png"  alt="Website"/></a>
-  <a href="https://github.com/raj-patra" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://t.me/a_ignorant_mortal" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/telegram-app.png" alt="Telegram"/></a>
-  <a href="https://discordapp.com/users/503535235468754964" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/discord--v2.png" alt="Reddit"/></a>
-  <a href="https://reddit.com/user/a-ignorant-mortal" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/reddit--v4.png" alt="Reddit"/></a>
-  <a href="https://instagram.com/raj__patra" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/instagram.png" alt="Instagram"/> </a>
-  <a href="https://twitter.com/ignorant_mortal" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/twitter.png" alt="Twitter"/></a>
-</p>
-
