@@ -19,7 +19,7 @@
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-patra&show_icons=true&theme=gotham&layout=compact" alt="raj patra" />
 </p>
 
-## 👩‍💻 Domain
+<!-- ## 👩‍💻 Domain
 <h3 align="center">Tech Stack: </h3>
 <table align="center" style="margin: 0px auto;">
   <tr>
@@ -45,10 +45,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </p>
 <br>
-
-<!-- ## 🗨️ Socials -->
-<!-- [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/a_ignorant_mortal) -->
-<h3 align="center">Socials:</h3>
+ -->
+## 🗨️ Socials
+<!-- <h3 align="center">Socials:</h3> -->
 <p align="center">
   <a href="mailto:rajpatra.kishore@gmail.com"><img align="center" src="https://img.icons8.com/doodle/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/raj-patra" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/linkedin.png"  alt="LinkedIn"/></a>
