@@ -10,9 +10,9 @@
 <a href="https://twitter.com/ignorant_mortal" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/twitter.png" alt="Twitter"/></a>
 
 
-Hey, This is **Raj**. A tech enthusiast trying to build cool stuff in my quest to keep my pace with the ever emerging field of technology. Also, I am an Electronics and Telecommunication graduate from **[IIIT Bhubaneswar](https://www.iiit-bh.ac.in/)**.
+Hey, This is **Raj**. A tech enthusiast trying to build cool stuff in my quest to keep my pace with the ever emerging field of technology.
 
-I am currently working as a software developer for Dell Technologies helping stakeholders drive intelligent insights from customer journeys, buying patterns and a lot more. 😊
+I am currently working as a software developer for Dell Technologies helping stakeholders derive intelligent insights from customer journeys, buying patterns and a lot more. 😊
 
   <img align="right" alt="GIF"  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -23,7 +23,7 @@ I am currently working as a software developer for Dell Technologies helping sta
 - 👨🏽‍💻 I’m currently working on Aritificial Intelligence based application development and DevOps.
 - 🌱 I’m currently learning Reinforcement Learning, Natural Language Processing and Cryptography.
 - 🤔 My interests are with Computer Vision, GUI Development, and state-less REST APIs.
-- 💼 Graduated from IIIT Bhubaneswar with a Bachelor's degree in Electronics and Telecommunication Engineering.
+- 💼 Graduated from **[IIIT Bhubaneswar](https://www.iiit-bh.ac.in/)** with a Bachelor's degree in Electronics and Telecommunication Engineering.
 - 📝 Check out my [Portfolio](https://raj-patra.github.io/).
  
 <!-- Contribution Graph-->
