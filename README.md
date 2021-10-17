@@ -26,7 +26,7 @@ Something about myself:
 - 🤔 My interests are with Computer Vision, GUI Development, and state-less REST APIs.
 - 💼 Graduated from **[IIIT Bhubaneswar](https://www.iiit-bh.ac.in/)** with a Bachelor's degree in Electronics and Telecommunication Engineering.
 - 📝 Check out my [Portfolio](https://raj-patra.github.io/).
- 
+
 <!-- Contribution Graph-->
 ![](https://activity-graph.herokuapp.com/graph?username=raj-patra&theme=react-dark&hide_border=true&area=true)
 </br>
