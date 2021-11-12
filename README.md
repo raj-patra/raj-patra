@@ -40,5 +40,5 @@ Something about myself:
 </p>
 
 <p align='center'>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-patra&show_icons=true&theme=gotham&layout=compact" alt="raj patra" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-patra&show_icons=true&theme=gotham&layout=compact&langs_count=10alt="raj patra" />
 </p>
