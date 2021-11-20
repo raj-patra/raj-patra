@@ -22,7 +22,7 @@ I am currently working as a software developer at Dell Technologies helping stak
 
 </br>
 
-Something about myself:
+### Something about myself:
 
 - 👨🏽‍💻 I’m currently working on Aritificial Intelligence based application development and DevOps.
 - 🌱 I’m currently learning Reinforcement Learning, Natural Language Processing and Cryptography.
