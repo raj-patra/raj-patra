@@ -17,7 +17,6 @@ I'm **Raj**. A tech enthusiast trying to build cool stuff in my quest to keep my
 
 I am currently working as a software developer at Dell Technologies helping stakeholders derive intelligent insights from customer journeys, buying patterns and a lot more. 😊
 
----
   <img align="right" alt="GIF"  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 </br>
