@@ -30,7 +30,7 @@ I am currently working as a Software Developer & Engineer at Dell Technologies h
 
 <!-- Contribution Graph-->
 ![](https://activity-graph.herokuapp.com/graph?username=raj-patra&theme=react-dark&hide_border=true&area=true)
-</br>
+
 
 ## 🐙 **Github Stats**
 <p align='center'>
