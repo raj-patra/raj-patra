@@ -20,7 +20,7 @@ I am currently working as a Software Developer & Engineer at Dell Technologies h
 
 </br>
 
-### Something about myself:
+### Somethings about me:
 
 - 👨🏽‍💻 I’m currently working on Aritificial Intelligence based application development and DevOps.
 - 🌱 I’m currently learning Reinforcement Learning, Natural Language Processing and Cryptography.
