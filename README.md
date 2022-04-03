@@ -1,4 +1,4 @@
-## Hey There 👋 Welcome !
+## Hey There 👋 Welcome !!!
 <a href="https://raj-patra.github.io/" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/internet.png"  alt="Website"/></a>
 <a href="mailto:rajpatra.kishore@gmail.com"><img align="center" src="https://img.icons8.com/doodle/50/000000/gmail.png" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/raj-patra" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/linkedin.png"  alt="LinkedIn"/></a>
@@ -14,7 +14,7 @@ I'm **Raj**, here to build some cool stuff while I can.
 
 ---
 
-I am currently working as a Software Developer & Engineer at Dell Technologies helping stakeholders derive intelligent insights from customer journeys, buying patterns and a lot more. 😊
+Currently working as a Software Developer & Engineer at Dell Technologies helping stakeholders derive intelligent insights from customer journeys, buying patterns and a lot more. 😊
 
   <img align="right" alt="GIF"  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
