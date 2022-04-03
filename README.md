@@ -10,7 +10,7 @@
 <a href="https://instagram.com/raj__patra" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/instagram.png" alt="Instagram"/> </a>
 
 
-I'm **Raj**. A tech enthusiast trying to build cool stuff in my quest to keep my pace with the ever emerging field of technology.
+I'm **Raj**, here to build some cool stuff while I can.
 
 ---
 
