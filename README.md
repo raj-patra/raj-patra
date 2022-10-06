@@ -28,10 +28,6 @@ Currently working as a Software Developer & Engineer at Dell Technologies helpin
 - 💼 Graduated from **[IIIT Bhubaneswar](https://www.iiit-bh.ac.in/)** with a Bachelor's degree in Electronics and Telecommunication Engineering.
 - 📝 Check out my [Portfolio](https://raj-patra.github.io/).
 
-<!-- Contribution Graph-->
-![](https://activity-graph.herokuapp.com/graph?username=raj-patra&theme=react-dark&hide_border=true&area=true)
-
-
 ## 🐙 **Github Stats**
 <p align='center'>
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=raj-patra&show_icons=true&theme=gotham" alt="raj patra" />
