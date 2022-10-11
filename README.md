@@ -38,3 +38,6 @@ Currently working as a Software Developer & Engineer at Dell Technologies helpin
 <p align='center'>
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-patra&show_icons=true&theme=gotham&layout=compact&langs_count=10alt="raj patra" />
 </p>
+
+## 📋 **Boards and Badges**
+[![@rajpatra's Holopin board](https://holopin.io/api/user/board?user=rajpatra)](https://holopin.io/@rajpatra)
