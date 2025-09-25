@@ -14,29 +14,24 @@ I'm **Raj**, here to build some cool stuff while I can.
 
 ---
 
-Currently working as a Data Scientist at Dell Technologies helping stakeholders derive intelligent insights from customer journeys, buying patterns and a lot more. 😊
-
-  <img align="right" alt="GIF"  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-</br>
+<img align="right" alt="GIF"  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### Somethings about me:
 
-- 👨🏽‍💻 I’m currently working on Aritificial Intelligence based application development and DevOps.
-- 🌱 I’m currently learning Reinforcement Learning, Natural Language Processing and Cryptography.
+- 👨🏽‍💻 I’m currently working on Behavioral-Science based AI applications in the e-commerce space.
+- 🌱 Learning topics such as Reinforcement Learning, Cryptography.
 - 🤔 My interests are with Computer Vision, GUI Development, and state-less REST APIs.
-- 💼 Graduated from **[IIIT Bhubaneswar](https://www.iiit-bh.ac.in/)** with a Bachelor's degree in Electronics and Telecommunication Engineering.
 - 📝 Check out my [Portfolio](https://raj-patra.github.io/).
+
+</br></br></br></br></br>
 
 ## 🐙 **Github Stats**
 <p align='center'>
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=raj-patra&show_icons=true&theme=gotham" alt="raj patra" />
   &nbsp; &nbsp;
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=raj-patra&theme=gotham" alt="raj patra" />
-</p>
-
-<p align='center'>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-patra&show_icons=true&theme=gotham&layout=compact&langs_count=10alt="raj patra" />
+  <!-- <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=raj-patra&theme=gotham" alt="raj patra" /> -->
+  <!-- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-patra&show_icons=true&theme=gotham&layout=compact&langs_count=10alt="raj patra" /> -->
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-patra&show_icons=true&theme=gotham&langs_count=10alt="raj patra" />
 </p>
 
 ## 📋 **Boards and Badges**
