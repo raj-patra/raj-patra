@@ -35,4 +35,4 @@ I'm **Raj**, here to build some cool stuff while I can.
 </p>
 
 ## 📋 **Boards and Badges**
-[![@rajpatra's Holopin board](https://holopin.io/api/user/board?user=rajpatra)](https://holopin.io/@rajpatra)
+[![An image of @rajpatra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajpatra)](https://holopin.io/@rajpatra)
